@@ -1,0 +1,16 @@
+print (3 + 4)
+print (3 - 4)
+print (3 * 4)
+print (3 ** 4)
+print (3 * 3 * 3 * 3)
+print (3 / 4)
+print (15 // 4)
+print (15%4)
+print (3 ** 0)
+print (3 - 4 * 20 / 2)
+print ((3 - 4) * 20 / 2)
+tuna = 5
+print (20 + tuna)
+bacon = 25
+print (bacon + tuna)
+print(bacon/tuna)
